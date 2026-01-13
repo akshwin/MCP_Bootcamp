@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "terminal": {
+      "command": "C:\\Users\\akshw\\.local\\bin\\uv.exe",
+      "args": [
+        "run",
+        "--frozen",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\akshw\\Desktop\\MCP\\servers\\terminal_server\\main.py"
+      ]
+    }
+  }
+}

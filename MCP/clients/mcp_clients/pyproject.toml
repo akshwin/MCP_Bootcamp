@@ -1,0 +1,14 @@
+[project]
+name = "mcp-clients"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain",
+    "langchain-groq",
+    "langchain-mcp-adapters",
+    "langgraph",
+    "mcp",
+    "python-dotenv",
+]
